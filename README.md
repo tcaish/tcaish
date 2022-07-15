@@ -1,9 +1,11 @@
-<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/) -->
+![Header](https://user-images.githubusercontent.com/77754475/179223076-bcc7b59b-4691-491a-8da7-45aa458979f1.png)
 
 ### Hello! I'm Timothy 👋🏼
 
-- 🎓 I have a bachelor's and master's degree in computer science
-- :mailbox: The best way to reach me is via LinkedIn with the button below
+🎓 I have a bachelor's and master's degree in computer science<br/>
+![react](https://user-images.githubusercontent.com/77754475/179223503-8ad68d26-c446-4ec8-aaf8-fc30ab220d66.png) My passion is building websites using React
+
+:mailbox: The best way to reach me is via LinkedIn with the button below
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-caish)
 
@@ -22,6 +24,8 @@
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=Django&logoColor=2BA977)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon&logoColor=F79402)
+![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=FFCB2B)
 ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
