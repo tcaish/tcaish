@@ -4,9 +4,7 @@
 
 🎓 I have a bachelor's and master's degree in computer science<br/>
 ![react](https://user-images.githubusercontent.com/77754475/179223503-8ad68d26-c446-4ec8-aaf8-fc30ab220d66.png) My passion is building websites using React<br/>
-:mailbox: The best way to reach me is via LinkedIn with the button below
-
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-caish)
+:mailbox: The best way to reach me is via email: [tcaish11@gmail.com](mailto:tcaish11@gmail.com)
 
 #### Languages I Work With
 
