@@ -24,3 +24,6 @@
 ![Supabase](https://img.shields.io/badge/-Supabase-222222?style=flat&logo=supabase&logoColor=3ECE90)
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon&logoColor=F79402)
 ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=FFCB2B)
+
+[![Timothy's GitHub stats](https://tcaish-github-readme-stats.vercel.app/api?username=tcaish&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/tcaish)
+[![Timothy's WakaTime stats](https://tcaish-github-readme-stats.vercel.app/api/wakatime?username=@tcaish&layout=compact&langs_count=6)](https://github.com/tcaish)
